@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Kristopher Johnson. All rights reserved.
 //
 
-#import <Cocoa/Cocoa.h>
+@import Foundation;
 
 //! Project version number for Markingbird.
 FOUNDATION_EXPORT double MarkingbirdVersionNumber;
